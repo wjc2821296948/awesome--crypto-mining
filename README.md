@@ -75,6 +75,7 @@
 - **[Minerstat](https://minerstat.com/)** - A professional mining monitoring and management platform for Windows and Linux miners.
 - **[Awesome Miner](https://www.awesomeminer.com/)** - A powerful mining management software for monitoring and optimizing mining rigs.
 - **[Rigel](https://rigel.dev/)** - A tool for optimizing mining performance and monitoring hardware.
+- **[XMRig Proxy Dashboard](https://github.com/wjc2821296948/XMRig-Proxy-Dashboard)** - A lightweight, zero-backend web dashboard for real-time XMRig Proxy monitoring with multi-proxy profiles and browser-local credentials.
 
 ## Educational Resources
 
